@@ -1,0 +1,37 @@
+table, th, td{
+    margin-left:35px;
+    border:1px solid black;
+    margin-top: 10px;
+    
+}
+img{
+    width: 250px;
+}
+
+th, td{
+    width:25px;
+    height:25px;
+    text-align: center;
+}
+
+button{
+    width: 75px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color:white;
+    
+}
+
+
+.divButton .nord{
+    margin-left: 75px;
+    
+}
+
+.divButton .öst{
+    margin-left:70px;
+}
+.divButton .syd{
+    margin-left:75px;
+}
+
